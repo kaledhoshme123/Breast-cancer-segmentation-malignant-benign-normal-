@@ -21,7 +21,7 @@ A convolutional neural network structure was proposed according to the U-NET mod
 | # | Metrics |
 | :---:   | :---: |
 | Evaluation on Training and Validation Data |  ![image](https://github.com/kaledhoshme123/Breast-cancer-segmentation-malignant-benign-normal-/assets/108609519/22f06daf-d616-479d-baf2-789f538a55a5) ![image](https://github.com/kaledhoshme123/Breast-cancer-segmentation-malignant-benign-normal-/assets/108609519/f4f65453-a658-4b33-9b45-6cbc7120e615)|
-| Classification Reportو Accuracy Score, Precision Score, Recall Score, F1 Score, specificity, dice Score, sensitivity |  ![image](https://github.com/kaledhoshme123/Breast-cancer-segmentation-malignant-benign-normal-/assets/108609519/3ac7d756-0563-43eb-9557-4987383cd202) ![image](https://github.com/kaledhoshme123/Breast-cancer-segmentation-malignant-benign-normal-/assets/108609519/eaca1f0b-161d-4ec1-93f1-97d6efd6afca)|
+| Classification Report, Accuracy Score, Precision Score, Recall Score, F1 Score, specificity, dice Score, sensitivity |  ![image](https://github.com/kaledhoshme123/Breast-cancer-segmentation-malignant-benign-normal-/assets/108609519/3ac7d756-0563-43eb-9557-4987383cd202) ![image](https://github.com/kaledhoshme123/Breast-cancer-segmentation-malignant-benign-normal-/assets/108609519/eaca1f0b-161d-4ec1-93f1-97d6efd6afca)|
 
 ## Visual review of the results:
 | # Samples of Validation Data (compare the predicted masks with the true masks)    |
