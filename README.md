@@ -29,3 +29,12 @@ A convolutional neural network structure was proposed according to the U-NET mod
 | ![__results___41_0](https://github.com/kaledhoshme123/Breast-cancer-segmentation-malignant-benign-normal-/assets/108609519/9f35141d-2359-4cf9-8491-a50cdb64af55)|
 |  ![__results___39_0](https://github.com/kaledhoshme123/Breast-cancer-segmentation-malignant-benign-normal-/assets/108609519/7ac45d11-a2d6-4516-8c8a-c06caef0c135)|
 | ![__results___40_0](https://github.com/kaledhoshme123/Breast-cancer-segmentation-malignant-benign-normal-/assets/108609519/911d8b8f-f81a-42ed-9a42-1a63b1e4668a)|
+
+# Update:
+> The previous study achieved high results, but in this current study I generalized the performance of the neural network by providing it with several Data Augmentation (Adjust_contrast, Adjust_brightness, flip_left_right, GaussianBlur, original image)
+The aim is to generalize the performance of the neural network (that is, to achieve high performance regardless of the quality of the medical images). The results are as follows:
+
+| # | Metrics |
+| :---:   | :---: |
+| Evaluation on Validation Data | ![image](https://github.com/kaledhoshme123/Breast-cancer-segmentation-malignant-benign-normal-/assets/108609519/0369009d-3427-4e19-96a0-de8cd0a73c0b)|
+| Classification Report, Accuracy Score, Precision Score, Recall Score, F1 Score, specificity, dice Score, sensitivity | ![image](https://github.com/kaledhoshme123/Breast-cancer-segmentation-malignant-benign-normal-/assets/108609519/5f113897-9242-4300-98b3-dc100ea6c0e0)|
